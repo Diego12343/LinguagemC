@@ -6,7 +6,7 @@ as seguintes saídas:
    Recuperação, quando nota entre maior que 4
        e menor que 7
        */
-#include <stidio.h>
+#include <stdio.h>
 
 #define MEDAPROV 7.0
 #define MEDREPOV 4.0
